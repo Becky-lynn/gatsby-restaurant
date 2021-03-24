@@ -1,20 +1,20 @@
 module.exports = {
   siteMetadata: {
-    title: "Dickey's Grille",
+    title: "Thanksgiving Family Feast",
   },
   plugins: [
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "",
-        spaceId: "",
+        accessToken: "KqzqtcFiRFgQh0Euegd3Zq6MbnC1dAsUj-u8GQoKeQQ",
+        spaceId: "l3zyn6qhdua2",
       },
     },
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "",
+        trackingId: "123456",
       },
     },
     "gatsby-plugin-react-helmet",
