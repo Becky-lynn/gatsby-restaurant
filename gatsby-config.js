@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Thanksgiving Family Feast",
+    siteUrl: "https://naughty-wright-7c655d.netlify.app"
   },
   plugins: [
     {
